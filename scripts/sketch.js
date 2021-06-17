@@ -489,7 +489,7 @@ function keyPressed() {
             break;
         case 77:
             // M
-            importMap(prompt('Input map string:'));
+            importMap(prompt('粘贴地图字符串:'));
             break;
         case 80:
             // P
